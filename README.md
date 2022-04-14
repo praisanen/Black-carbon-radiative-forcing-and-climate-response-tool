@@ -2,7 +2,7 @@
 This repository provides a fortran-based tool which computes an estimate for the radiative forcings and associated global-mean temperature response,
 based on the region and annual or monthly BC emission rates given by the user.
 
-This tool is based on the research reported in manuscript
+This tool is based on the research reported in the manuscript
 
 Räisänen, P., Merikanto, J., Makkonen, R., Savolahti, M., Kirkevåg, A., Sand, M., Seland, Ø., and Partanen, A.-I.: Mapping the dependence of BC 
 radiative forcing on emission region and season, submitted to Atmos. Chem. Phys., 2022.
